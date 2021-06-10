@@ -1,6 +1,6 @@
 //ICO for Roman Coins
 
-pragma solidity ^0.4.11 
+pragma solidity ^0.4.11; 
 
 contract romancoins_ico {
     
